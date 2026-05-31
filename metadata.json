@@ -1,0 +1,6 @@
+{
+  "name": "中華賭聖：撲克王之戰",
+  "description": "支援「大老二」、「德州撲克」以及爆笑刺激的「賭聖特異功能模式」！可與三叔、大軍等經典電影角色展開單人AI對局，也可線上開房多人同樂！體驗搓牌、變牌、透視眼等神級超能力！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
